@@ -1,0 +1,3 @@
+clear; close all; clc
+
+k = 1;  % k proporzionale d
