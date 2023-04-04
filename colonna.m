@@ -1,5 +1,9 @@
 
+%% ritardo di tempo
+
+
 function [sys,x0,str,ts,simStateCompliance] = colonna(t,x,u,flag,mu,tau,x0)
+
 
 switch flag,
 
